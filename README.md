@@ -1,5 +1,5 @@
 ---
-title: Gradio Chatbot
+title: Arroz
 emoji: 💬
 colorFrom: yellow
 colorTo: purple
