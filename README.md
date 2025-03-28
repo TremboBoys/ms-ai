@@ -9,4 +9,5 @@ app_file: app.py
 pinned: false
 ---
 
-An example chatbot using [Gradio](https://gradio.app), [`huggingface_hub`](https://huggingface.co/docs/huggingface_hub/v0.22.2/en/index), and the [Hugging Face Inference API](https://huggingface.co/docs/api-inference/index).
+Create and train AI models for me based on Google's BERT model and make them accessible via FastAPI.
+Link: https://huggingface.co/KaliumPotas/ai
